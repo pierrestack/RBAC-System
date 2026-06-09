@@ -4,5 +4,5 @@ public enum PermissionEnum {
     CREATE_USER,
     UPDATE_USER,
     DELETE_USER,
-    VIEW_USERS
+    VIEW_USERS,
 }
